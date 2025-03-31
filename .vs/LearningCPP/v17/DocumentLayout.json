@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\LearningCPP\\",
+  "WorkspaceRootPath": "C:\\Users\\Omerta\\Learning-CPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AB8E8E4-92A7-4C10-A819-C370993EEAD8}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\Lenovo\\source\\repos\\LearningCPP\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8AB8E8E4-92A7-4C10-A819-C370993EEAD8}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\Omerta\\Learning-CPP\\HelloWorld\\Control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8AB8E8E4-92A7-4C10-A819-C370993EEAD8}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB8E8E4-92A7-4C10-A819-C370993EEAD8}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\Omerta\\Learning-CPP\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8AB8E8E4-92A7-4C10-A819-C370993EEAD8}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,15 +23,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Control.cpp",
+              "DocumentMoniker": "C:\\Users\\Omerta\\Learning-CPP\\HelloWorld\\Control.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Control.cpp",
+              "ToolTip": "C:\\Users\\Omerta\\Learning-CPP\\HelloWorld\\Control.cpp",
+              "RelativeToolTip": "HelloWorld\\Control.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T09:24:56.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HelloWorld.cpp",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\LearningCPP\\HelloWorld\\HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\Omerta\\Learning-CPP\\HelloWorld\\HelloWorld.cpp",
               "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\LearningCPP\\HelloWorld\\HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\Omerta\\Learning-CPP\\HelloWorld\\HelloWorld.cpp",
               "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-30T16:34:55.721Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

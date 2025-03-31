@@ -13,7 +13,7 @@ int main() // entry point of the application
 
 	bool isAngry = false;
 	cout << isAngry;*/
-
+	////////////////////////////////////////////////////////////////////
 	/*int x;
 	int y;
 	string name;
@@ -28,8 +28,8 @@ int main() // entry point of the application
 	cout << "Enter your name:\n";
 	cin >> name;
 	cout << "The name you entered is: " << name;*/
-
-
+	////////////////////////////////////////////////////////////////////
+	/*				
 	int x = 2;
 	int y = 3;
 
@@ -46,7 +46,38 @@ int main() // entry point of the application
 	cout << "division = " << division << endl;
 
 	int remainder = x % y;																		
-	cout << "Remainder = " << remainder << endl;
+	cout << "Remainder = " << remainder << endl;*/
+	////////////////////////////////////////////////////////////////////
+	/*int grade;
+	cout << "Enter your grade:" << endl;
+	cin >> grade;
+	if (cin.fail())
+		cout << "Bad input!" << endl;
+	else if (grade > 100 || grade < 0)
+		cout << "Enter a valid number!" << endl;
+	else if (grade >= 90)
+		cout << "A+" << endl;
+	else if (grade >= 80)
+		cout << "B+" << endl;
+	else if (grade >= 70)
+		cout << "C+" << endl;
+	else if (grade >= 60)
+		cout << "D+" << endl;
+	else if (grade >= 50)
+		cout << "D" << endl;
+	else if (grade < 50)
+		cout << "F" << endl;*/
+	/////////////////////////////////////////////////////////////////////
+	/*int num;
+	cout << "Enter a number: " << endl;
+	cin >> num;
+
+	if (num % 2 == 0)
+		cout << "The number is even!";
+	else
+		cout << "The number is odd!";*/
+	/////////////////////////////////////////////////////////////////////
+
 
 }
 

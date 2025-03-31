@@ -1,1 +1,2 @@
-﻿  HelloWorld.vcxproj -> C:\Users\Lenovo\source\repos\LearningCPP\x64\Debug\HelloWorld.exe
+﻿HelloWorld.obj : error LNK2005: main déjà défini(e) dans Control.obj
+C:\Users\Omerta\Learning-CPP\x64\Debug\HelloWorld.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés
