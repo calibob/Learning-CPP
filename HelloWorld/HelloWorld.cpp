@@ -77,8 +77,71 @@ int main() // entry point of the application
 	else
 		cout << "The number is odd!";*/
 	/////////////////////////////////////////////////////////////////////
+		//Even or Odd
 
+		/*int age;
+		cout << "Enter your age: ";
+		cin >> age;
+		if (age >= 65)
+			cout << "You are a senior citizen eligible to vote!";
+		else if (age >= 18) {
+			cout << "You are eligible to vote!" << endl;
+		}
+		else {
+			cout << "You are NOT eligible to vote." << endl;
+		}*/
+	/////////////////////////////////////////////////////////////////////
+		//Check for Voting Eligibility
 
+		/*int a, b, c;
+		cout << "Enter three numbers: ";
+		cin >> a >> b >> c;
+		if (a == b && a == c && b == c)
+			cout << "The numbers are equal!";
+		else if (a >= b && a >= c) {
+			cout << "The largest number is: " << a << endl;
+		}
+		else if (b >= a && b >= c) {
+			cout << "The largest number is: " << b << endl;
+		}
+		else {
+			cout << "The largest number is: " << c << endl;
+		}*/
+/////////////////////////////////////////////////////////////////////////
+		//Grade Calculator
+
+		/*int score;
+		cout << "Enter your exam score (0-100): ";
+		cin >> score;
+		if (score > 100 || score < 0)
+			cout << "Enter a valid grade!" << endl;
+		else if (score >= 90) {
+			cout << "Your grade is: A" << endl;
+		}
+		else if (score >= 80) {
+			cout << "Your grade is: B" << endl;
+		}
+		else if (score >= 70) {
+			cout << "Your grade is: C" << endl;
+		}
+		else if (score >= 60) {
+			cout << "Your grade is: D" << endl;
+		}
+		else {
+			cout << "Your grade is: F" << endl;
+		}*/
+////////////////////////////////////////////////////////////////////////
+		//Simple ATM System
+
+		/*int PIN;
+		cout << "Enter your PIN:" << endl;
+		cin >> PIN;
+
+		if (PIN == 123)
+			cout << "Access granted!" << endl;
+		else
+			cout << "Access denied.Try again!" << endl;*/
+////////////////////////////////////////////////////////////////////////
 }
 
 
